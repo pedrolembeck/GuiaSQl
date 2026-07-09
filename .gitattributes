@@ -1,0 +1,9 @@
+# Todo Markdown não entra nas estatísticas
+*.md linguist-documentation
+
+# Todo SQL é SQL
+*.sql linguist-language=SQL
+*.sql linguist-detectable
+
+# A pasta docs também não conta
+docs/** linguist-documentation
