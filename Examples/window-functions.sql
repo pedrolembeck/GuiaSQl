@@ -1,1 +1,0 @@
-SELECT nome,salario,ROW_NUMBER() OVER(ORDER BY salario DESC) rn FROM funcionarios;

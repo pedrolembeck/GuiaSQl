@@ -1,5 +1,0 @@
-# Subqueries
-
-```sql
-SELECT * FROM funcionarios WHERE salario>(SELECT AVG(salario) FROM funcionarios);
-```
