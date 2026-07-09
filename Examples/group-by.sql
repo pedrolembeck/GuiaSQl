@@ -1,0 +1,1 @@
+SELECT departamento,COUNT(*) FROM funcionarios GROUP BY departamento;

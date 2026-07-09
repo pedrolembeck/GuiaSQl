@@ -1,0 +1,1 @@
+SELECT * FROM funcionarios f JOIN departamentos d ON f.id_departamento=d.id;

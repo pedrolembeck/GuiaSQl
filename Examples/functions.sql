@@ -1,0 +1,1 @@
+SELECT UPPER(nome),NVL(comissao,0) FROM funcionarios;
