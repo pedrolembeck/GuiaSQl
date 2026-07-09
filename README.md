@@ -4,8 +4,6 @@ Um guia prático de Oracle SQL com exemplos organizados por assunto.
 
 O objetivo deste repositório é servir como material de consulta para estudantes, desenvolvedores e profissionais que desejam revisar rapidamente a sintaxe e os principais recursos do Oracle Database.
 
-> **Status:** Em desenvolvimento 🚧
-
 ---
 
 ## Conteúdo
